@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Melissa Eder's Profile.
+
+This website is my profile for the course Information Technology.
 
 You can use the [editor on GitHub](https://github.com/meleder/Melissa-Eder-s-Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
